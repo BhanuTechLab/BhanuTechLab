@@ -10,8 +10,8 @@
 
 
 ![Version](https://img.shields.io/badge/version-20.11.2025-blue)
-![Profile Views](https://komarev.com/ghpvc/?username=Bhanu99517&color=red&style=flat&label=Profile+views)
-![GitHub Followers](https://img.shields.io/github/followers/Bhanu99517?label=Follow&style=flat&color=white)
+![Profile Views](https://komarev.com/ghpvc/?username=BhanuTechLab&color=red&style=flat&label=Profile+views)
+![GitHub Followers](https://img.shields.io/github/followers/BhanuTechLab?label=Follow&style=flat&color=white)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 
 
