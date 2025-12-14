@@ -43,7 +43,8 @@ I turn real-world problems into **working products** — combining
 
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BhanuTechLab&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true"/>
+      
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BhanuTechLab&theme=github_dark"/>
       
   <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhanuTechLab&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
